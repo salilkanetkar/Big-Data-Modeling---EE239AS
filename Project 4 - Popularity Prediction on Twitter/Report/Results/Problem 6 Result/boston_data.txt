@@ -1,0 +1,8 @@
+#gohawks:
+"Boston"
+Total Positive  15.7636726721
+Total Negative  16.2363273279
+Total Neutral 11.906505983
+
+#gohawks
+"Seattle"

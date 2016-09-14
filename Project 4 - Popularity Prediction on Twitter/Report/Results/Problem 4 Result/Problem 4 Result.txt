@@ -1,0 +1,29 @@
+The average prediction error for full cross-validation of #gohawks  is  201.985494379
+The average prediction error using cross-validation for Period 1 of #gohawks  is  195.33012307
+The average prediction error using cross-validation for Period 2 of #gohawks  is  3586.81721634
+The average prediction error using cross-validation for Period 3 of #gohawks  is  3618.150389
+
+The average prediction error for full cross-validation of #gopatriots  is  46.8387458351
+The average prediction error using cross-validation for Period 1 of #gopatriots  is  15.0497473269
+The average prediction error using cross-validation for Period 2 of #gopatriots  is  5931.72579807
+The average prediction error using cross-validation for Period 3 of #gopatriots  is  3.39709349788
+
+The average prediction error for full cross-validation of #nfl  is  209.40332478
+The average prediction error using cross-validation for Period 1 of #nfl  is  129.859688519
+The average prediction error using cross-validation for Period 2 of #nfl  is  8306.45409707
+The average prediction error using cross-validation for Period 3 of #nfl  is  323.191675261
+
+The average prediction error for full cross-validation of #patriots  is  570.734103736
+The average prediction error using cross-validation for Period 1 of #patriots  is  193.289351945
+The average prediction error using cross-validation for Period 2 of #patriots  is  144817.01549
+The average prediction error using cross-validation for Period 3 of #patriots  is  119.640225039
+
+The average prediction error for full cross-validation of #sb49  is  1296.93958947
+The average prediction error using cross-validation for Period 1 of #sb49  is  95.0505246235
+The average prediction error using cross-validation for Period 2 of #sb49  is  98712.9844464
+The average prediction error using cross-validation for Period 3 of #sb49  is  233.679609467
+
+The average prediction error for full cross-validation of #superbowl  is  1446.29521061
+The average prediction error using cross-validation for Period 1 of #superbowl  is  235.638507215
+The average prediction error using cross-validation for Period 2 of #superbowl  is  249011.40892
+The average prediction error using cross-validation for Period 3 of #superbowl  is  459.229183093

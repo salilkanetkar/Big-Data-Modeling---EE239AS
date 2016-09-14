@@ -1,0 +1,31 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      y   R-squared:                       0.604
+Model:                            OLS   Adj. R-squared:                  0.602
+Method:                 Least Squares   F-statistic:                     280.9
+Date:                Thu, 17 Mar 2016   Prob (F-statistic):          2.36e-182
+Time:                        19:50:39   Log-Likelihood:                -6992.8
+No. Observations:                 926   AIC:                         1.400e+04
+Df Residuals:                     920   BIC:                         1.403e+04
+Df Model:                           5                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [95.0% Conf. Int.]
+------------------------------------------------------------------------------
+const         61.7117     29.839      2.068      0.039         3.151   120.272
+x1            -0.0001    2.5e-05     -5.697      0.000        -0.000 -9.34e-05
+x2            -0.1778      0.065     -2.716      0.007        -0.306    -0.049
+x3            -1.2138      2.198     -0.552      0.581        -5.528     3.100
+x4             1.3405      0.110     12.216      0.000         1.125     1.556
+x5             0.0002   3.38e-05      5.811      0.000         0.000     0.000
+==============================================================================
+Omnibus:                     1045.607   Durbin-Watson:                   2.159
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):          1262900.553
+Skew:                           4.465   Prob(JB):                         0.00
+Kurtosis:                     183.699   Cond. No.                     5.43e+06
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 5.43e+06. This might indicate that there are
+strong multicollinearity or other numerical problems.
